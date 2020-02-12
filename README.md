@@ -1,5 +1,7 @@
 INVENTORY
 
+[![Build Status](https://travis-ci.org/Ramsfield/Inventory.svg?branch=master)](https://travis-ci.org/Ramsfield/Inventory)
+
 A simple class library to be able to simulate the sale of items.
 
 Contains class Inventory to help you maintain the name, cost, inventory and sale of items in your inventory.
