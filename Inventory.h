@@ -5,6 +5,10 @@
 using std::string;
 using std::ostream;
 
+/*
+ * A simple Inventory class that holds the item name, the price of the item, and the number of items in stock
+ * Contains sell() method that will simulate the sale of an item and decrement the number of items in the inventory
+ */
 class Inventory
 {
   private:
